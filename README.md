@@ -39,7 +39,8 @@ python bus_routes.py
 ---
 
 ### 📷 Screenshots  
-(Add images of your project here, like UI screenshots)  
+![image](https://github.com/user-attachments/assets/bcccd109-dd63-42e0-a6d7-5e4b410df033)
+
 
 ---
 
